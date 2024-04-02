@@ -16,4 +16,8 @@
 
 .fas,
 .fa-solid {
-  font-weight: 900; }
+  font-weight: 900;
+}
+.request-loader:not(.community1){
+	visibility: hidden;
+}
