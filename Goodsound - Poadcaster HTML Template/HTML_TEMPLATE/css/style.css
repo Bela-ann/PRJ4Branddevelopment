@@ -950,3 +950,18 @@ a {
         width: 100%;
     }
 }
+.containerpipi {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            margin: 0 auto;
+	max-width: 75%;}
+.column123 {
+            flex: 1;
+        }
+#appendix{
+	 display: flex;
+            justify-content: center; 
+	margin: 0px 20%
+}

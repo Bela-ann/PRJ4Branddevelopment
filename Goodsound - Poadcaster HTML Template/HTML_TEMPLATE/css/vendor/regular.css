@@ -31,3 +31,9 @@
 #aboutus{
 	padding-right: 30px;
 }
+.li1 {
+    margin-left: 10px;
+    list-style-type: circle;
+    display: inline;
+	
+ }
