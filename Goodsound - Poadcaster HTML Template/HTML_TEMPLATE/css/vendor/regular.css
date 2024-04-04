@@ -37,18 +37,3 @@
     display: inline;
 	
  }
-.containerpipi {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 30px;
-            margin: 0 auto;
-	max-width: 75%;}
-.column {
-            flex: 1;
-        }
-#appendix{
-	 display: flex;
-            justify-content: center; 
-	margin: 0px 400px
-}
