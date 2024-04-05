@@ -960,7 +960,7 @@ a {
 .column123 {
             flex: 1;
         }
-#appendix{
+.appendix{
 	 display: flex;
             justify-content: center; 
 	margin: 0px 20%
