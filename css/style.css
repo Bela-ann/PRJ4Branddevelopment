@@ -973,3 +973,11 @@ a {
 	
 	display: inline-block;
 }
+.valuesdiv {
+	width: 100%;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	
+}
